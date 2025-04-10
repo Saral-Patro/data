@@ -1701,7 +1701,7 @@
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 4,
         "tithiStrEn": "Chaturthi",
         "specialDays": {
