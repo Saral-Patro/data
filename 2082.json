@@ -967,7 +967,7 @@
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 6,
         "tithiStrEn": "Shashthi",
         "specialDays": {
