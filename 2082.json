@@ -1313,7 +1313,7 @@
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 13,
         "tithiStrEn": "Trayodashi",
         "specialDays": {
