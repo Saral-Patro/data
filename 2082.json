@@ -15,26 +15,26 @@
         "weekdayStrNp": "सोमवार",
         "weekdayStrEn": "Monday",
         "tithiStrNp": "प्रतिपदा",
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 1,
         "tithiStrEn": "Pratipada",
         "events": [
           {
             "strEn": "नयाँ वर्ष",
             "strNp": "नयाँ वर्ष",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "मेष संक्रान्ति",
             "strNp": "मेष संक्रान्ति",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "बिस्का: जात्रा",
             "strNp": "बिस्का: जात्रा",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
@@ -271,7 +271,7 @@
           {
             "strEn": "  ",
             "strNp": "  ",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
@@ -623,7 +623,7 @@
           {
             "strEn": "विश्व बौद्धिक सम्पत्ति दिवस",
             "strNp": "विश्व बौद्धिक सम्पत्ति दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
@@ -865,11 +865,11 @@
           {
             "strEn": "अन्तर्राष्ट्रिय श्रमिक दिवस",
             "strNp": "अन्तर्राष्ट्रिय श्रमिक दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 4,
         "tithiStrEn": "Chaturthi",
         "specialDays": {
@@ -963,7 +963,7 @@
           {
             "strEn": "विश्व प्रेस स्वतन्त्रता दिवस",
             "strNp": "विश्व प्रेस स्वतन्त्रता दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
@@ -1309,7 +1309,7 @@
           {
             "strEn": "  ",
             "strNp": "  ",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
@@ -1407,59 +1407,59 @@
           {
             "strEn": "बुद्ध जयन्ती",
             "strNp": "बुद्ध जयन्ती",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "उभौली पर्व",
             "strNp": "उभौली पर्व",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "चण्डेश्वरी जात्रा",
             "strNp": "चण्डेश्वरी जात्रा",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "चण्डी पूर्णिमा",
             "strNp": "चण्डी पूर्णिमा",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "कुर्म जयन्ती",
             "strNp": "कुर्म जयन्ती",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "गोरखनाथ जयन्ती",
             "strNp": "गोरखनाथ जयन्ती",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "पूर्णिमा व्रत",
             "strNp": "पूर्णिमा व्रत",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "बैसाख स्नान समाप्ति",
             "strNp": "बैसाख स्नान समाप्ति",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "अन्तर्राष्ट्रिय नर्स दिवस",
             "strNp": "अन्तर्राष्ट्रिय नर्स दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 15,
         "tithiStrEn": "Purnima",
         "specialDays": {
@@ -1691,13 +1691,13 @@
           {
             "strEn": "विश्व दूरसञ्चार दिवस",
             "strNp": "विश्व दूरसञ्चार दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "विश्व उच्च रक्तचाप दिवस",
             "strNp": "विश्व उच्च रक्तचाप दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
@@ -2025,11 +2025,11 @@
           {
             "strEn": "शनि प्रदोष व्रत",
             "strNp": "शनि प्रदोष व्रत",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 12,
         "tithiStrEn": "Dwadashi",
         "specialDays": {
@@ -2261,11 +2261,11 @@
           {
             "strEn": "गणतन्त्र दिवस",
             "strNp": "गणतन्त्र दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 3,
         "tithiStrEn": "Tritiya",
         "specialDays": {
@@ -2353,11 +2353,11 @@
           {
             "strEn": "विश्व धुम्रपान रहित दिवस",
             "strNp": "विश्व धुम्रपान रहित दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 5,
         "tithiStrEn": "Panchami",
         "specialDays": {
@@ -2705,11 +2705,11 @@
           {
             "strEn": "निर्जला एकादशी व्रत (तुलसीको दल राख्ने)",
             "strNp": "निर्जला एकादशी व्रत (तुलसीको दल राख्ने)",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 12,
         "tithiStrEn": "Dwadashi",
         "specialDays": {
@@ -3033,11 +3033,11 @@
           {
             "strEn": "विश्व रक्तदाता दिवस",
             "strNp": "विश्व रक्तदाता दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 3,
         "tithiStrEn": "Tritiya",
         "specialDays": {
@@ -3367,23 +3367,23 @@
           {
             "strEn": "योगिनी एकादशी व्रत (स्मार्तहरूको)",
             "strNp": "योगिनी एकादशी व्रत (स्मार्तहरूको)",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "विश्व योग दिवस",
             "strNp": "विश्व योग दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "संगीत दिवस",
             "strNp": "संगीत दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 10,
         "tithiStrEn": "Dashami",
         "specialDays": {
@@ -3707,11 +3707,11 @@
           {
             "strEn": "  ",
             "strNp": "  ",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 3,
         "tithiStrEn": "Tritiya",
         "specialDays": {
@@ -4035,11 +4035,11 @@
           {
             "strEn": "अन्तर्राष्ट्रिय सहकारी दिवस",
             "strNp": "अन्तर्राष्ट्रिय सहकारी दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 10,
         "tithiStrEn": "Dashami",
         "specialDays": {
@@ -4375,11 +4375,11 @@
           {
             "strEn": "  ",
             "strNp": "  ",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 2,
         "tithiStrEn": "Dwitīyā",
         "specialDays": {
@@ -4715,11 +4715,11 @@
           {
             "strEn": "  ",
             "strNp": "  ",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 9,
         "tithiStrEn": "Navami",
         "specialDays": {
@@ -5037,11 +5037,11 @@
           {
             "strEn": "  ",
             "strNp": "  ",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 2,
         "tithiStrEn": "Dwitīyā",
         "specialDays": {
@@ -5389,11 +5389,11 @@
           {
             "strEn": "विश्व स्तनपान सप्ताह प्रारम्भ",
             "strNp": "विश्व स्तनपान सप्ताह प्रारम्भ",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 8,
         "tithiStrEn": "Ashtami",
         "specialDays": {
@@ -5717,41 +5717,41 @@
           {
             "strEn": "जनै पूर्णिमा",
             "strNp": "जनै पूर्णिमा",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "रक्षा बन्धन",
             "strNp": "रक्षा बन्धन",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "क्वाति खाने दिन",
             "strNp": "क्वाति खाने दिन",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "पूर्णिमा व्रत",
             "strNp": "पूर्णिमा व्रत",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "ऋषितर्पणी",
             "strNp": "ऋषितर्पणी",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "संस्कृत दिवस",
             "strNp": "संस्कृत दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 15,
         "tithiStrEn": "Purnima",
         "specialDays": {
@@ -6075,17 +6075,17 @@
           {
             "strEn": "श्रीकृष्ण जन्माष्टमी",
             "strNp": "श्रीकृष्ण जन्माष्टमी",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "गोरखकाली पूजा",
             "strNp": "गोरखकाली पूजा",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 8,
         "tithiStrEn": "Ashtami",
         "specialDays": {
@@ -6409,23 +6409,23 @@
           {
             "strEn": "बुबाको मुख हेर्ने दिन",
             "strNp": "बुबाको मुख हेर्ने दिन",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "कुशे औंसी",
             "strNp": "कुशे औंसी",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "मोतीराम भट्ट जन्मजयन्ती",
             "strNp": "मोतीराम भट्ट जन्मजयन्ती",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 30,
         "tithiStrEn": "Aunsi",
         "specialDays": {
@@ -6755,23 +6755,23 @@
           {
             "strEn": "महालक्ष्मी व्रतआरम्भ",
             "strNp": "महालक्ष्मी व्रतआरम्भ",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "गौरा सप्तमी",
             "strNp": "गौरा सप्तमी",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "विश्व बेपत्ता विरुद्धको दिवस",
             "strNp": "विश्व बेपत्ता विरुद्धको दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 7,
         "tithiStrEn": "Saptami",
         "specialDays": {
@@ -7113,17 +7113,17 @@
           {
             "strEn": "इन्द्रजात्रा (काठमाडौं उपत्यका विदा)",
             "strNp": "इन्द्रजात्रा (काठमाडौं उपत्यका विदा)",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "अनन्त चतुर्दशी व्रत",
             "strNp": "अनन्त चतुर्दशी व्रत",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 14,
         "tithiStrEn": "Chaturdashi",
         "specialDays": {
@@ -7471,17 +7471,17 @@
           {
             "strEn": "सप्तमी श्राद्ध",
             "strNp": "सप्तमी श्राद्ध",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "प्राथमिक उपचार दिवस",
             "strNp": "प्राथमिक उपचार दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 6,
         "tithiStrEn": "Shashthi",
         "specialDays": {
@@ -7819,23 +7819,23 @@
           {
             "strEn": "त्रयोदशी श्राद्ध",
             "strNp": "त्रयोदशी श्राद्ध",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "मघा श्राद्ध",
             "strNp": "मघा श्राद्ध",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "संविधान दिवस",
             "strNp": "संविधान दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 13,
         "tithiStrEn": "Trayodashi",
         "specialDays": {
@@ -7877,11 +7877,11 @@
           {
             "strEn": "चतुर्दशी श्राद्ध",
             "strNp": "चतुर्दशी श्राद्ध",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 14,
         "tithiStrEn": "Chaturdashi",
         "specialDays": {
@@ -7987,17 +7987,17 @@
           {
             "strEn": "घटस्थापना व्रत",
             "strNp": "घटस्थापना व्रत",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "नवरात्र आरम्भ",
             "strNp": "नवरात्र आरम्भ",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 1,
         "tithiStrEn": "Pratipada",
         "specialDays": {
@@ -8223,11 +8223,11 @@
           {
             "strEn": "विश्व पर्यटन दिवस",
             "strNp": "विश्व पर्यटन दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 5,
         "tithiStrEn": "Panchami",
         "specialDays": {
@@ -8321,17 +8321,17 @@
           {
             "strEn": "फूलपाती",
             "strNp": "फूलपाती",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "विश्व मुटु दिवस",
             "strNp": "विश्व मुटु दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 7,
         "tithiStrEn": "Saptami",
         "specialDays": {
@@ -8373,29 +8373,29 @@
           {
             "strEn": "महाअष्टमी व्रत",
             "strNp": "महाअष्टमी व्रत",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "कालरात्रि",
             "strNp": "कालरात्रि",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "गोरखकाली पूजा",
             "strNp": "गोरखकाली पूजा",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "भाैमाष्टमी व्रत",
             "strNp": "भाैमाष्टमी व्रत",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 8,
         "tithiStrEn": "Ashtami",
         "specialDays": {
@@ -8437,17 +8437,17 @@
           {
             "strEn": "महानवमी व्रत",
             "strNp": "महानवमी व्रत",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "अन्तर्राष्ट्रिय ज्येष्ठ नागरिक दिवस",
             "strNp": "अन्तर्राष्ट्रिय ज्येष्ठ नागरिक दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 9,
         "tithiStrEn": "Navami",
         "specialDays": {
@@ -8489,23 +8489,23 @@
           {
             "strEn": "विजया दशमी",
             "strNp": "विजया दशमी",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "देवी विसर्जन",
             "strNp": "देवी विसर्जन",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "विश्व अहिंसा दिवस",
             "strNp": "विश्व अहिंसा दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 10,
         "tithiStrEn": "Dashami",
         "specialDays": {
@@ -8547,17 +8547,17 @@
           {
             "strEn": "पापांकुशा एकादशी व्रत",
             "strNp": "पापांकुशा एकादशी व्रत",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "विश्व मुस्कान दिवस",
             "strNp": "विश्व मुस्कान दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 11,
         "tithiStrEn": "Ekadashi",
         "specialDays": {
@@ -8599,23 +8599,23 @@
           {
             "strEn": "दशैं विदा",
             "strNp": "दशैं विदा",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "शनि प्रदोष व्रत",
             "strNp": "शनि प्रदोष व्रत",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "विश्व पशु दिवस",
             "strNp": "विश्व पशु दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 12,
         "tithiStrEn": "Dwadashi",
         "specialDays": {
@@ -8945,11 +8945,11 @@
           {
             "strEn": "गैर आवासीय नेपाली दिवस",
             "strNp": "गैर आवासीय नेपाली दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 5,
         "tithiStrEn": "Panchami",
         "specialDays": {
@@ -9291,23 +9291,23 @@
           {
             "strEn": "तुला संक्रान्ति",
             "strNp": "तुला संक्रान्ति",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "शनि प्रदोष व्रत",
             "strNp": "शनि प्रदोष व्रत",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "धन त्रयोदशी व्रत (धनतेरस)",
             "strNp": "धन त्रयोदशी व्रत (धनतेरस)",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 12,
         "tithiStrEn": "Dwadashi",
         "specialDays": {
@@ -9401,35 +9401,35 @@
           {
             "strEn": "लक्ष्मी पूजा",
             "strNp": "लक्ष्मी पूजा",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "महाकवी लक्ष्मीप्रसाद देवकोटाको जन्म जयन्ती",
             "strNp": "महाकवी लक्ष्मीप्रसाद देवकोटाको जन्म जयन्ती",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "कुकुर तिहार",
             "strNp": "कुकुर तिहार",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "नरक चतुर्दशी",
             "strNp": "नरक चतुर्दशी",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "सुखरात्री",
             "strNp": "सुखरात्री",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 14,
         "tithiStrEn": "Chaturdashi",
         "specialDays": {
@@ -9471,11 +9471,11 @@
           {
             "strEn": "तिहार विदा",
             "strNp": "तिहार विदा",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 30,
         "tithiStrEn": "Aunsi",
         "specialDays": {
@@ -9517,35 +9517,35 @@
           {
             "strEn": "गोवर्धन पूजा",
             "strNp": "गोवर्धन पूजा",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "गाईगोरु पूजा",
             "strNp": "गाईगोरु पूजा",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "म्हपूजा",
             "strNp": "म्हपूजा",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "हलि तिहार",
             "strNp": "हलि तिहार",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "नेपाल सम्वत ११४६ प्रारम्भ",
             "strNp": "नेपाल सम्वत ११४६ प्रारम्भ",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 1,
         "tithiStrEn": "Pratipada",
         "specialDays": {
@@ -9587,17 +9587,17 @@
           {
             "strEn": "भाइटीका",
             "strNp": "भाइटीका",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "किजा पूजा",
             "strNp": "किजा पूजा",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 2,
         "tithiStrEn": "Dwitīyā",
         "specialDays": {
@@ -9639,23 +9639,23 @@
           {
             "strEn": "तिहार विदा",
             "strNp": "तिहार विदा",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "संयुक्त राष्ट्रसंघ दिवस",
             "strNp": "संयुक्त राष्ट्रसंघ दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "विश्व विकास सूचना दिवस",
             "strNp": "विश्व विकास सूचना दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 3,
         "tithiStrEn": "Tritiya",
         "specialDays": {
@@ -9697,11 +9697,11 @@
           {
             "strEn": "  ",
             "strNp": "  ",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 4,
         "tithiStrEn": "Chaturthi",
         "specialDays": {
@@ -9789,11 +9789,11 @@
           {
             "strEn": "छठ पर्व",
             "strNp": "छठ पर्व",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 5,
         "tithiStrEn": "Panchami",
         "specialDays": {
@@ -10031,11 +10031,11 @@
           {
             "strEn": "हरिबोधिनी एकादशी व्रत (तुलसी बिवाह)",
             "strNp": "हरिबोधिनी एकादशी व्रत (तुलसी बिवाह)",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 10,
         "tithiStrEn": "Dashami",
         "specialDays": {
@@ -10215,29 +10215,29 @@
           {
             "strEn": "पूर्णिमा व्रत",
             "strNp": "पूर्णिमा व्रत",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "चतुर्मास व्रत समाप्ति ",
             "strNp": "चतुर्मास व्रत समाप्ति ",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "कार्तिक स्नान समाप्ति",
             "strNp": "कार्तिक स्नान समाप्ति",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "गुरु नानक जयन्ती (सिख धर्मावलम्बीहरूलाई मात्र)",
             "strNp": "गुरु नानक जयन्ती (सिख धर्मावलम्बीहरूलाई मात्र)",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 15,
         "tithiStrEn": "Purnima",
         "specialDays": {
@@ -10371,11 +10371,11 @@
           {
             "strEn": "विश्व रेडियोग्राफी दिवस",
             "strNp": "विश्व रेडियोग्राफी दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 3,
         "tithiStrEn": "Tritiya",
         "specialDays": {
@@ -10509,11 +10509,11 @@
           {
             "strEn": "महागुरु फाल्गुनन्द जयन्ती (किराँत धर्मावलम्बीहरूलाई मात्र)",
             "strNp": "महागुरु फाल्गुनन्द जयन्ती (किराँत धर्मावलम्बीहरूलाई मात्र)",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 7,
         "tithiStrEn": "Saptami",
         "specialDays": {
@@ -10711,11 +10711,11 @@
           {
             "strEn": "उत्पतिका एकादशी व्रत",
             "strNp": "उत्पतिका एकादशी व्रत",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 11,
         "tithiStrEn": "Ekadashi",
         "specialDays": {
@@ -11057,11 +11057,11 @@
           {
             "strEn": "  ",
             "strNp": "  ",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 2,
         "tithiStrEn": "Dwitīyā",
         "specialDays": {
@@ -11391,11 +11391,11 @@
           {
             "strEn": "  ",
             "strNp": "  ",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 9,
         "tithiStrEn": "Navami",
         "specialDays": {
@@ -11593,11 +11593,11 @@
           {
             "strEn": "अन्तर्राष्ट्रिय अपाङ्ग दिवस (विशेष क्षमता भएका कर्मचारीलाई मात्र)",
             "strNp": "अन्तर्राष्ट्रिय अपाङ्ग दिवस (विशेष क्षमता भएका कर्मचारीलाई मात्र)",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 13,
         "tithiStrEn": "Trayodashi",
         "specialDays": {
@@ -11639,29 +11639,29 @@
           {
             "strEn": "पूर्णिमा व्रत",
             "strNp": "पूर्णिमा व्रत",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "धान्यपुर्णिमा",
             "strNp": "धान्यपुर्णिमा",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "य:मरि पुन्हि",
             "strNp": "य:मरि पुन्हि",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "ज्यापु दिवस",
             "strNp": "ज्यापु दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 14,
         "tithiStrEn": "Chaturdashi",
         "specialDays": {
@@ -11755,11 +11755,11 @@
           {
             "strEn": "  ",
             "strNp": "  ",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 2,
         "tithiStrEn": "Dwitīyā",
         "specialDays": {
@@ -12083,11 +12083,11 @@
           {
             "strEn": "  ",
             "strNp": "  ",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 9,
         "tithiStrEn": "Navami",
         "specialDays": {
@@ -12405,11 +12405,11 @@
           {
             "strEn": "तोल ल्होसार",
             "strNp": "तोल ल्होसार",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 30,
         "tithiStrEn": "Aunsi",
         "specialDays": {
@@ -12727,11 +12727,11 @@
           {
             "strEn": "  ",
             "strNp": "  ",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 7,
         "tithiStrEn": "Saptami",
         "specialDays": {
@@ -13079,23 +13079,23 @@
           {
             "strEn": "श्री स्वस्थानी व्रत कथा प्रारम्भ",
             "strNp": "श्री स्वस्थानी व्रत कथा प्रारम्भ",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "माघ स्नान",
             "strNp": "माघ स्नान",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "पूर्णिमा व्रत",
             "strNp": "पूर्णिमा व्रत",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 15,
         "tithiStrEn": "Purnima",
         "specialDays": {
@@ -13413,11 +13413,11 @@
           {
             "strEn": "  ",
             "strNp": "  ",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 7,
         "tithiStrEn": "Saptami",
         "specialDays": {
@@ -13655,23 +13655,23 @@
           {
             "strEn": "माघे संक्रान्ति",
             "strNp": "माघे संक्रान्ति",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "घ्यु चाकु खाने दिन",
             "strNp": "घ्यु चाकु खाने दिन",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "उत्तरायण आरम्भ",
             "strNp": "उत्तरायण आरम्भ",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 12,
         "tithiStrEn": "Dwadashi",
         "specialDays": {
@@ -13765,11 +13765,11 @@
           {
             "strEn": "  ",
             "strNp": "  ",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 14,
         "tithiStrEn": "Chaturdashi",
         "specialDays": {
@@ -13857,17 +13857,17 @@
           {
             "strEn": "सोनाम ल्होसार",
             "strNp": "सोनाम ल्होसार",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "श्रीबल्लभ जयन्ती",
             "strNp": "श्रीबल्लभ जयन्ती",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 1,
         "tithiStrEn": "Pratipada",
         "specialDays": {
@@ -14047,17 +14047,17 @@
           {
             "strEn": "वसन्तपञ्चमी व्रत",
             "strNp": "वसन्तपञ्चमी व्रत",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "सरस्वती पूजा (शिक्षण संस्था बिदा)",
             "strNp": "सरस्वती पूजा (शिक्षण संस्था बिदा)",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 5,
         "tithiStrEn": "Panchami",
         "specialDays": {
@@ -14099,23 +14099,23 @@
           {
             "strEn": "स्कन्द षष्ठी",
             "strNp": "स्कन्द षष्ठी",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "अचला सप्तमी",
             "strNp": "अचला सप्तमी",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "अन्तर्राष्ट्रिय शिक्षा दिवस",
             "strNp": "अन्तर्राष्ट्रिय शिक्षा दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 6,
         "tithiStrEn": "Shashthi",
         "specialDays": {
@@ -14393,17 +14393,17 @@
           {
             "strEn": "शहीद दिवस",
             "strNp": "शहीद दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "प्रदोष व्रत",
             "strNp": "प्रदोष व्रत",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 12,
         "tithiStrEn": "Dwadashi",
         "specialDays": {
@@ -14445,11 +14445,11 @@
           {
             "strEn": "  ",
             "strNp": "  ",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 13,
         "tithiStrEn": "Trayodashi",
         "specialDays": {
@@ -14773,11 +14773,11 @@
           {
             "strEn": "  ",
             "strNp": "  ",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 6,
         "tithiStrEn": "Shashthi",
         "specialDays": {
@@ -15113,17 +15113,17 @@
           {
             "strEn": "शनि प्रदोष व्रत",
             "strNp": "शनि प्रदोष व्रत",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "प्रणय दिवस",
             "strNp": "प्रणय दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 12,
         "tithiStrEn": "Dwadashi",
         "specialDays": {
@@ -15165,23 +15165,23 @@
           {
             "strEn": "महा शिवरात्री ",
             "strNp": "महा शिवरात्री ",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": " नेपाली सेना दिवस",
             "strNp": " नेपाली सेना दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "सिलाचःह्रे पूजा",
             "strNp": "सिलाचःह्रे पूजा",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 13,
         "tithiStrEn": "Trayodashi",
         "specialDays": {
@@ -15315,11 +15315,11 @@
           {
             "strEn": "ग्याल्पो ल्होछार",
             "strNp": "ग्याल्पो ल्होछार",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 1,
         "tithiStrEn": "Pratipada",
         "specialDays": {
@@ -15361,17 +15361,17 @@
           {
             "strEn": "प्रजातन्त्र दिवस ",
             "strNp": "प्रजातन्त्र दिवस ",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": " निर्वाचन दिवस",
             "strNp": " निर्वाचन दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 2,
         "tithiStrEn": "Dwitīyā",
         "specialDays": {
@@ -15459,11 +15459,11 @@
           {
             "strEn": "अन्तर्राष्ट्रिय मातृभाषा दिवस",
             "strNp": "अन्तर्राष्ट्रिय मातृभाषा दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 4,
         "tithiStrEn": "Chaturthi",
         "specialDays": {
@@ -15793,11 +15793,11 @@
           {
             "strEn": "  ",
             "strNp": "  ",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 12,
         "tithiStrEn": "Dwadashi",
         "specialDays": {
@@ -15891,17 +15891,17 @@
           {
             "strEn": "फागु पुर्णिमा (पहाडी जिल्ला)",
             "strNp": "फागु पुर्णिमा (पहाडी जिल्ला)",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "पूर्णिमा व्रत",
             "strNp": "पूर्णिमा व्रत",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 14,
         "tithiStrEn": "Chaturdashi",
         "specialDays": {
@@ -15943,23 +15943,23 @@
           {
             "strEn": "फागु पुर्णिमा (तराइ होली)",
             "strNp": "फागु पुर्णिमा (तराइ होली)",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "खण्डग्रास चन्द्र ग्रहण",
             "strNp": "खण्डग्रास चन्द्र ग्रहण",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "विश्व वन्यजन्तु दिवस",
             "strNp": "विश्व वन्यजन्तु दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 15,
         "tithiStrEn": "Purnima",
         "specialDays": {
@@ -16151,11 +16151,11 @@
           {
             "strEn": "  ",
             "strNp": "  ",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 4,
         "tithiStrEn": "Chaturthi",
         "specialDays": {
@@ -16197,11 +16197,11 @@
           {
             "strEn": "नारी दिवस",
             "strNp": "नारी दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 5,
         "tithiStrEn": "Panchami",
         "specialDays": {
@@ -16473,11 +16473,11 @@
           {
             "strEn": "  ",
             "strNp": "  ",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 10,
         "tithiStrEn": "Dashami",
         "specialDays": {
@@ -16813,23 +16813,23 @@
           {
             "strEn": "गौरी व्रत",
             "strNp": "गौरी व्रत",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "मत्स्य जयन्ती व्रत",
             "strNp": "मत्स्य जयन्ती व्रत",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           },
           {
             "strEn": "विश्व कविता दिवस",
             "strNp": "विश्व कविता दिवस",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 3,
         "tithiStrEn": "Tritiya",
         "specialDays": {
@@ -17165,11 +17165,11 @@
           {
             "strEn": "  ",
             "strNp": "  ",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 10,
         "tithiStrEn": "Dashami",
         "specialDays": {
@@ -17505,11 +17505,11 @@
           {
             "strEn": "  ",
             "strNp": "  ",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 2,
         "tithiStrEn": "Dwitīyā",
         "specialDays": {
@@ -17827,11 +17827,11 @@
           {
             "strEn": "  ",
             "strNp": "  ",
-            "isHoliday": false,
+            "isHoliday": true,
             "priority": "Low"
           }
         ],
-        "isHoliday": false,
+        "isHoliday": true,
         "tithiCode": 9,
         "tithiStrEn": "Navami",
         "specialDays": {
