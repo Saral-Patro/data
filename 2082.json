@@ -49,10 +49,10 @@
           }
         },
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "बैशाख",
         "weekday": 0,
@@ -95,10 +95,10 @@
         "tithiCode": 2,
         "tithiStrEn": "Dwitīyā",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "बैशाख",
         "weekday": 1,
@@ -141,10 +141,10 @@
         "tithiCode": 3,
         "tithiStrEn": "Tritiya",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "बैशाख",
         "weekday": 2,
@@ -187,10 +187,10 @@
         "tithiCode": 4,
         "tithiStrEn": "Chaturthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "बैशाख",
         "weekday": 3,
@@ -233,10 +233,10 @@
         "tithiCode": 5,
         "tithiStrEn": "Panchami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": true,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "बैशाख",
         "weekday": 4,
@@ -279,10 +279,10 @@
         "tithiCode": 6,
         "tithiStrEn": "Shashthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "बैशाख",
         "weekday": 5,
@@ -325,10 +325,10 @@
         "tithiCode": 7,
         "tithiStrEn": "Saptami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "बैशाख",
         "weekday": 6,
@@ -377,10 +377,10 @@
         "tithiCode": 8,
         "tithiStrEn": "Ashtami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "बैशाख",
         "weekday": 0,
@@ -423,10 +423,10 @@
         "tithiCode": 9,
         "tithiStrEn": "Navami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "बैशाख",
         "weekday": 1,
@@ -469,10 +469,10 @@
         "tithiCode": 10,
         "tithiStrEn": "Dashami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "बैशाख",
         "weekday": 2,
@@ -527,10 +527,10 @@
         "tithiCode": 11,
         "tithiStrEn": "Ekadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "बैशाख",
         "weekday": 3,
@@ -585,10 +585,10 @@
         "tithiCode": 12,
         "tithiStrEn": "Dwadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "बैशाख",
         "weekday": 4,
@@ -631,10 +631,10 @@
         "tithiCode": 13,
         "tithiStrEn": "Trayodashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "बैशाख",
         "weekday": 5,
@@ -677,10 +677,10 @@
         "tithiCode": 30,
         "tithiStrEn": "Aunsi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "बैशाख",
         "weekday": 6,
@@ -723,10 +723,10 @@
         "tithiCode": 1,
         "tithiStrEn": "Pratipada",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "बैशाख",
         "weekday": 0,
@@ -775,10 +775,10 @@
         "tithiCode": 2,
         "tithiStrEn": "Dwitīyā",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "बैशाख",
         "weekday": 1,
@@ -827,10 +827,10 @@
         "tithiCode": 3,
         "tithiStrEn": "Tritiya",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "बैशाख",
         "weekday": 2,
@@ -873,10 +873,10 @@
         "tithiCode": 4,
         "tithiStrEn": "Chaturthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "बैशाख",
         "weekday": 3,
@@ -925,10 +925,10 @@
         "tithiCode": 5,
         "tithiStrEn": "Panchami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": true,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "बैशाख",
         "weekday": 4,
@@ -971,10 +971,10 @@
         "tithiCode": 6,
         "tithiStrEn": "Shashthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "बैशाख",
         "weekday": 5,
@@ -1029,10 +1029,10 @@
         "tithiCode": 7,
         "tithiStrEn": "Saptami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "बैशाख",
         "weekday": 6,
@@ -1075,10 +1075,10 @@
         "tithiCode": 8,
         "tithiStrEn": "Ashtami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "बैशाख",
         "weekday": 0,
@@ -1121,10 +1121,10 @@
         "tithiCode": 9,
         "tithiStrEn": "Navami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "बैशाख",
         "weekday": 1,
@@ -1167,10 +1167,10 @@
         "tithiCode": 10,
         "tithiStrEn": "Dashami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": true,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "बैशाख",
         "weekday": 2,
@@ -1219,10 +1219,10 @@
         "tithiCode": 11,
         "tithiStrEn": "Ekadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "बैशाख",
         "weekday": 3,
@@ -1271,10 +1271,10 @@
         "tithiCode": 12,
         "tithiStrEn": "Dwadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "बैशाख",
         "weekday": 4,
@@ -1317,10 +1317,10 @@
         "tithiCode": 13,
         "tithiStrEn": "Trayodashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "बैशाख",
         "weekday": 5,
@@ -1369,10 +1369,10 @@
         "tithiCode": 14,
         "tithiStrEn": "Chaturdashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "बैशाख",
         "weekday": 6,
@@ -1463,10 +1463,10 @@
         "tithiCode": 15,
         "tithiStrEn": "Purnima",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "बैशाख",
         "weekday": 0,
@@ -1509,10 +1509,10 @@
         "tithiCode": 1,
         "tithiStrEn": "Pratipada",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "बैशाख",
         "weekday": 1,
@@ -1555,10 +1555,10 @@
         "tithiCode": 2,
         "tithiStrEn": "Dwitīyā",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "बैशाख",
         "weekday": 2,
@@ -1607,10 +1607,10 @@
         "tithiCode": 3,
         "tithiStrEn": "Tritiya",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "जेष्ठ",
         "weekday": 3,
@@ -1653,10 +1653,10 @@
         "tithiCode": 4,
         "tithiStrEn": "Chaturthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "जेष्ठ",
         "weekday": 4,
@@ -1705,10 +1705,10 @@
         "tithiCode": 4,
         "tithiStrEn": "Chaturthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "जेष्ठ",
         "weekday": 5,
@@ -1751,10 +1751,10 @@
         "tithiCode": 5,
         "tithiStrEn": "Panchami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "जेष्ठ",
         "weekday": 6,
@@ -1797,10 +1797,10 @@
         "tithiCode": 6,
         "tithiStrEn": "Shashthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "जेष्ठ",
         "weekday": 0,
@@ -1849,10 +1849,10 @@
         "tithiCode": 7,
         "tithiStrEn": "Saptami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "जेष्ठ",
         "weekday": 1,
@@ -1895,10 +1895,10 @@
         "tithiCode": 9,
         "tithiStrEn": "Navami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "जेष्ठ",
         "weekday": 2,
@@ -1941,10 +1941,10 @@
         "tithiCode": 10,
         "tithiStrEn": "Dashami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "जेष्ठ",
         "weekday": 3,
@@ -1987,10 +1987,10 @@
         "tithiCode": 11,
         "tithiStrEn": "Ekadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "जेष्ठ",
         "weekday": 4,
@@ -2033,10 +2033,10 @@
         "tithiCode": 12,
         "tithiStrEn": "Dwadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "जेष्ठ",
         "weekday": 5,
@@ -2079,10 +2079,10 @@
         "tithiCode": 13,
         "tithiStrEn": "Trayodashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "जेष्ठ",
         "weekday": 6,
@@ -2131,10 +2131,10 @@
         "tithiCode": 14,
         "tithiStrEn": "Chaturdashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "जेष्ठ",
         "weekday": 0,
@@ -2177,10 +2177,10 @@
         "tithiCode": 30,
         "tithiStrEn": "Aunsi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "जेष्ठ",
         "weekday": 1,
@@ -2223,10 +2223,10 @@
         "tithiCode": 1,
         "tithiStrEn": "Pratipada",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "जेष्ठ",
         "weekday": 2,
@@ -2269,10 +2269,10 @@
         "tithiCode": 3,
         "tithiStrEn": "Tritiya",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "जेष्ठ",
         "weekday": 3,
@@ -2315,10 +2315,10 @@
         "tithiCode": 4,
         "tithiStrEn": "Chaturthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "जेष्ठ",
         "weekday": 4,
@@ -2361,10 +2361,10 @@
         "tithiCode": 5,
         "tithiStrEn": "Panchami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "जेष्ठ",
         "weekday": 5,
@@ -2413,10 +2413,10 @@
         "tithiCode": 6,
         "tithiStrEn": "Shashthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "जेष्ठ",
         "weekday": 6,
@@ -2459,10 +2459,10 @@
         "tithiCode": 7,
         "tithiStrEn": "Saptami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "जेष्ठ",
         "weekday": 0,
@@ -2511,10 +2511,10 @@
         "tithiCode": 8,
         "tithiStrEn": "Ashtami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "जेष्ठ",
         "weekday": 1,
@@ -2563,10 +2563,10 @@
         "tithiCode": 9,
         "tithiStrEn": "Navami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "जेष्ठ",
         "weekday": 2,
@@ -2621,10 +2621,10 @@
         "tithiCode": 10,
         "tithiStrEn": "Dashami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "जेष्ठ",
         "weekday": 3,
@@ -2667,10 +2667,10 @@
         "tithiCode": 11,
         "tithiStrEn": "Ekadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "जेष्ठ",
         "weekday": 4,
@@ -2713,10 +2713,10 @@
         "tithiCode": 12,
         "tithiStrEn": "Dwadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "जेष्ठ",
         "weekday": 5,
@@ -2759,10 +2759,10 @@
         "tithiCode": 12,
         "tithiStrEn": "Dwadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "जेष्ठ",
         "weekday": 6,
@@ -2805,10 +2805,10 @@
         "tithiCode": 13,
         "tithiStrEn": "Trayodashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "जेष्ठ",
         "weekday": 0,
@@ -2851,10 +2851,10 @@
         "tithiCode": 14,
         "tithiStrEn": "Chaturdashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "जेष्ठ",
         "weekday": 1,
@@ -2903,10 +2903,10 @@
         "tithiCode": 15,
         "tithiStrEn": "Purnima",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "जेष्ठ",
         "weekday": 2,
@@ -2949,10 +2949,10 @@
         "tithiCode": 1,
         "tithiStrEn": "Pratipada",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "जेष्ठ",
         "weekday": 3,
@@ -2995,10 +2995,10 @@
         "tithiCode": 2,
         "tithiStrEn": "Dwitīyā",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "जेष्ठ",
         "weekday": 4,
@@ -3041,10 +3041,10 @@
         "tithiCode": 3,
         "tithiStrEn": "Tritiya",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "जेष्ठ",
         "weekday": 5,
@@ -3099,10 +3099,10 @@
         "tithiCode": 4,
         "tithiStrEn": "Chaturthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "आषाढ",
         "weekday": 6,
@@ -3145,10 +3145,10 @@
         "tithiCode": 5,
         "tithiStrEn": "Panchami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "आषाढ",
         "weekday": 0,
@@ -3191,10 +3191,10 @@
         "tithiCode": 6,
         "tithiStrEn": "Shashthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "आषाढ",
         "weekday": 1,
@@ -3237,10 +3237,10 @@
         "tithiCode": 7,
         "tithiStrEn": "Saptami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "आषाढ",
         "weekday": 2,
@@ -3283,10 +3283,10 @@
         "tithiCode": 8,
         "tithiStrEn": "Ashtami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "आषाढ",
         "weekday": 3,
@@ -3329,10 +3329,10 @@
         "tithiCode": 9,
         "tithiStrEn": "Navami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "आषाढ",
         "weekday": 4,
@@ -3387,10 +3387,10 @@
         "tithiCode": 10,
         "tithiStrEn": "Dashami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "आषाढ",
         "weekday": 5,
@@ -3433,10 +3433,10 @@
         "tithiCode": 12,
         "tithiStrEn": "Dwadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "आषाढ",
         "weekday": 6,
@@ -3485,10 +3485,10 @@
         "tithiCode": 13,
         "tithiStrEn": "Trayodashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "आषाढ",
         "weekday": 0,
@@ -3531,10 +3531,10 @@
         "tithiCode": 14,
         "tithiStrEn": "Chaturdashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "आषाढ",
         "weekday": 1,
@@ -3577,10 +3577,10 @@
         "tithiCode": 30,
         "tithiStrEn": "Aunsi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "आषाढ",
         "weekday": 2,
@@ -3623,10 +3623,10 @@
         "tithiCode": 1,
         "tithiStrEn": "Pratipada",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "आषाढ",
         "weekday": 3,
@@ -3669,10 +3669,10 @@
         "tithiCode": 2,
         "tithiStrEn": "Dwitīyā",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "आषाढ",
         "weekday": 4,
@@ -3715,10 +3715,10 @@
         "tithiCode": 3,
         "tithiStrEn": "Tritiya",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "आषाढ",
         "weekday": 5,
@@ -3767,10 +3767,10 @@
         "tithiCode": 4,
         "tithiStrEn": "Chaturthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "आषाढ",
         "weekday": 6,
@@ -3813,10 +3813,10 @@
         "tithiCode": 5,
         "tithiStrEn": "Panchami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "आषाढ",
         "weekday": 0,
@@ -3859,10 +3859,10 @@
         "tithiCode": 6,
         "tithiStrEn": "Shashthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "आषाढ",
         "weekday": 1,
@@ -3905,10 +3905,10 @@
         "tithiCode": 7,
         "tithiStrEn": "Saptami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "आषाढ",
         "weekday": 2,
@@ -3951,10 +3951,10 @@
         "tithiCode": 8,
         "tithiStrEn": "Ashtami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "आषाढ",
         "weekday": 3,
@@ -3997,10 +3997,10 @@
         "tithiCode": 9,
         "tithiStrEn": "Navami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "आषाढ",
         "weekday": 4,
@@ -4043,10 +4043,10 @@
         "tithiCode": 10,
         "tithiStrEn": "Dashami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "आषाढ",
         "weekday": 5,
@@ -4095,10 +4095,10 @@
         "tithiCode": 11,
         "tithiStrEn": "Ekadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "आषाढ",
         "weekday": 6,
@@ -4141,10 +4141,10 @@
         "tithiCode": 12,
         "tithiStrEn": "Dwadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "आषाढ",
         "weekday": 0,
@@ -4187,10 +4187,10 @@
         "tithiCode": 13,
         "tithiStrEn": "Trayodashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "आषाढ",
         "weekday": 1,
@@ -4233,10 +4233,10 @@
         "tithiCode": 14,
         "tithiStrEn": "Chaturdashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "आषाढ",
         "weekday": 2,
@@ -4291,10 +4291,10 @@
         "tithiCode": 15,
         "tithiStrEn": "Purnima",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "आषाढ",
         "weekday": 3,
@@ -4337,10 +4337,10 @@
         "tithiCode": 1,
         "tithiStrEn": "Pratipada",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "आषाढ",
         "weekday": 4,
@@ -4383,10 +4383,10 @@
         "tithiCode": 2,
         "tithiStrEn": "Dwitīyā",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "आषाढ",
         "weekday": 5,
@@ -4429,10 +4429,10 @@
         "tithiCode": 3,
         "tithiStrEn": "Tritiya",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "आषाढ",
         "weekday": 6,
@@ -4475,10 +4475,10 @@
         "tithiCode": 4,
         "tithiStrEn": "Chaturthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "आषाढ",
         "weekday": 0,
@@ -4527,10 +4527,10 @@
         "tithiCode": 5,
         "tithiStrEn": "Panchami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "आषाढ",
         "weekday": 1,
@@ -4573,10 +4573,10 @@
         "tithiCode": 6,
         "tithiStrEn": "Shashthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "आषाढ",
         "weekday": 2,
@@ -4631,10 +4631,10 @@
         "tithiCode": 7,
         "tithiStrEn": "Saptami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "श्रावन",
         "weekday": 3,
@@ -4677,10 +4677,10 @@
         "tithiCode": 8,
         "tithiStrEn": "Ashtami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "श्रावन",
         "weekday": 4,
@@ -4723,10 +4723,10 @@
         "tithiCode": 9,
         "tithiStrEn": "Navami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "श्रावन",
         "weekday": 5,
@@ -4769,10 +4769,10 @@
         "tithiCode": 10,
         "tithiStrEn": "Dashami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "श्रावन",
         "weekday": 6,
@@ -4815,10 +4815,10 @@
         "tithiCode": 11,
         "tithiStrEn": "Ekadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "श्रावन",
         "weekday": 0,
@@ -4861,10 +4861,10 @@
         "tithiCode": 12,
         "tithiStrEn": "Dwadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "श्रावन",
         "weekday": 1,
@@ -4907,10 +4907,10 @@
         "tithiCode": 14,
         "tithiStrEn": "Chaturdashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "श्रावन",
         "weekday": 2,
@@ -4953,10 +4953,10 @@
         "tithiCode": 30,
         "tithiStrEn": "Aunsi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "श्रावन",
         "weekday": 3,
@@ -4999,10 +4999,10 @@
         "tithiCode": 1,
         "tithiStrEn": "Pratipada",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "श्रावन",
         "weekday": 4,
@@ -5045,10 +5045,10 @@
         "tithiCode": 2,
         "tithiStrEn": "Dwitīyā",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "श्रावन",
         "weekday": 5,
@@ -5091,10 +5091,10 @@
         "tithiCode": 3,
         "tithiStrEn": "Tritiya",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "श्रावन",
         "weekday": 6,
@@ -5137,10 +5137,10 @@
         "tithiCode": 4,
         "tithiStrEn": "Chaturthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "श्रावन",
         "weekday": 0,
@@ -5189,10 +5189,10 @@
         "tithiCode": 5,
         "tithiStrEn": "Panchami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "श्रावन",
         "weekday": 1,
@@ -5241,10 +5241,10 @@
         "tithiCode": 6,
         "tithiStrEn": "Shashthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "श्रावन",
         "weekday": 2,
@@ -5305,10 +5305,10 @@
         "tithiCode": 7,
         "tithiStrEn": "Saptami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "श्रावन",
         "weekday": 3,
@@ -5351,10 +5351,10 @@
         "tithiCode": 8,
         "tithiStrEn": "Ashtami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "श्रावन",
         "weekday": 4,
@@ -5397,10 +5397,10 @@
         "tithiCode": 8,
         "tithiStrEn": "Ashtami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "श्रावन",
         "weekday": 5,
@@ -5443,10 +5443,10 @@
         "tithiCode": 9,
         "tithiStrEn": "Navami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "श्रावन",
         "weekday": 6,
@@ -5489,10 +5489,10 @@
         "tithiCode": 10,
         "tithiStrEn": "Dashami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "श्रावन",
         "weekday": 0,
@@ -5535,10 +5535,10 @@
         "tithiCode": 11,
         "tithiStrEn": "Ekadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "श्रावन",
         "weekday": 1,
@@ -5581,10 +5581,10 @@
         "tithiCode": 12,
         "tithiStrEn": "Dwadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "श्रावन",
         "weekday": 2,
@@ -5627,10 +5627,10 @@
         "tithiCode": 13,
         "tithiStrEn": "Trayodashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "श्रावन",
         "weekday": 3,
@@ -5679,10 +5679,10 @@
         "tithiCode": 14,
         "tithiStrEn": "Chaturdashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "श्रावन",
         "weekday": 4,
@@ -5755,10 +5755,10 @@
         "tithiCode": 15,
         "tithiStrEn": "Purnima",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "श्रावन",
         "weekday": 5,
@@ -5807,10 +5807,10 @@
         "tithiCode": 1,
         "tithiStrEn": "Pratipada",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "श्रावन",
         "weekday": 6,
@@ -5853,10 +5853,10 @@
         "tithiCode": 2,
         "tithiStrEn": "Dwitīyā",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "श्रावन",
         "weekday": 0,
@@ -5899,10 +5899,10 @@
         "tithiCode": 3,
         "tithiStrEn": "Tritiya",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "श्रावन",
         "weekday": 1,
@@ -5945,10 +5945,10 @@
         "tithiCode": 4,
         "tithiStrEn": "Chaturthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "श्रावन",
         "weekday": 2,
@@ -5991,10 +5991,10 @@
         "tithiCode": 6,
         "tithiStrEn": "Shashthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "श्रावन",
         "weekday": 3,
@@ -6037,10 +6037,10 @@
         "tithiCode": 7,
         "tithiStrEn": "Saptami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "श्रावन",
         "weekday": 4,
@@ -6089,10 +6089,10 @@
         "tithiCode": 8,
         "tithiStrEn": "Ashtami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "श्रावन",
         "weekday": 5,
@@ -6135,10 +6135,10 @@
         "tithiCode": 9,
         "tithiStrEn": "Navami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "भाद्र",
         "weekday": 6,
@@ -6181,10 +6181,10 @@
         "tithiCode": 10,
         "tithiStrEn": "Dashami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "भाद्र",
         "weekday": 0,
@@ -6233,10 +6233,10 @@
         "tithiCode": 11,
         "tithiStrEn": "Ekadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "भाद्र",
         "weekday": 1,
@@ -6279,10 +6279,10 @@
         "tithiCode": 12,
         "tithiStrEn": "Dwadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "भाद्र",
         "weekday": 2,
@@ -6325,10 +6325,10 @@
         "tithiCode": 13,
         "tithiStrEn": "Trayodashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "भाद्र",
         "weekday": 3,
@@ -6371,10 +6371,10 @@
         "tithiCode": 14,
         "tithiStrEn": "Chaturdashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "भाद्र",
         "weekday": 4,
@@ -6429,10 +6429,10 @@
         "tithiCode": 30,
         "tithiStrEn": "Aunsi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "भाद्र",
         "weekday": 5,
@@ -6475,10 +6475,10 @@
         "tithiCode": 1,
         "tithiStrEn": "Pratipada",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "भाद्र",
         "weekday": 6,
@@ -6521,10 +6521,10 @@
         "tithiCode": 2,
         "tithiStrEn": "Dwitīyā",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "भाद्र",
         "weekday": 0,
@@ -6567,10 +6567,10 @@
         "tithiCode": 3,
         "tithiStrEn": "Tritiya",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "भाद्र",
         "weekday": 1,
@@ -6619,10 +6619,10 @@
         "tithiCode": 4,
         "tithiStrEn": "Chaturthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "भाद्र",
         "weekday": 2,
@@ -6665,10 +6665,10 @@
         "tithiCode": 5,
         "tithiStrEn": "Panchami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "भाद्र",
         "weekday": 3,
@@ -6717,10 +6717,10 @@
         "tithiCode": 6,
         "tithiStrEn": "Shashthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "भाद्र",
         "weekday": 4,
@@ -6775,10 +6775,10 @@
         "tithiCode": 7,
         "tithiStrEn": "Saptami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "भाद्र",
         "weekday": 5,
@@ -6839,10 +6839,10 @@
         "tithiCode": 8,
         "tithiStrEn": "Ashtami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "भाद्र",
         "weekday": 6,
@@ -6885,10 +6885,10 @@
         "tithiCode": 9,
         "tithiStrEn": "Navami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "भाद्र",
         "weekday": 0,
@@ -6931,10 +6931,10 @@
         "tithiCode": 10,
         "tithiStrEn": "Dashami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "भाद्र",
         "weekday": 1,
@@ -6977,10 +6977,10 @@
         "tithiCode": 11,
         "tithiStrEn": "Ekadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "भाद्र",
         "weekday": 2,
@@ -7023,10 +7023,10 @@
         "tithiCode": 12,
         "tithiStrEn": "Dwadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "भाद्र",
         "weekday": 3,
@@ -7075,10 +7075,10 @@
         "tithiCode": 13,
         "tithiStrEn": "Trayodashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "भाद्र",
         "weekday": 4,
@@ -7127,10 +7127,10 @@
         "tithiCode": 14,
         "tithiStrEn": "Chaturdashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "भाद्र",
         "weekday": 5,
@@ -7179,10 +7179,10 @@
         "tithiCode": 15,
         "tithiStrEn": "Purnima",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "भाद्र",
         "weekday": 6,
@@ -7237,10 +7237,10 @@
         "tithiCode": 1,
         "tithiStrEn": "Pratipada",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "भाद्र",
         "weekday": 0,
@@ -7283,10 +7283,10 @@
         "tithiCode": 2,
         "tithiStrEn": "Dwitīyā",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "भाद्र",
         "weekday": 1,
@@ -7335,10 +7335,10 @@
         "tithiCode": 3,
         "tithiStrEn": "Tritiya",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "भाद्र",
         "weekday": 2,
@@ -7381,10 +7381,10 @@
         "tithiCode": 4,
         "tithiStrEn": "Chaturthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "भाद्र",
         "weekday": 3,
@@ -7433,10 +7433,10 @@
         "tithiCode": 5,
         "tithiStrEn": "Panchami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "भाद्र",
         "weekday": 4,
@@ -7485,10 +7485,10 @@
         "tithiCode": 6,
         "tithiStrEn": "Shashthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "भाद्र",
         "weekday": 5,
@@ -7549,10 +7549,10 @@
         "tithiCode": 8,
         "tithiStrEn": "Ashtami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "भाद्र",
         "weekday": 6,
@@ -7601,10 +7601,10 @@
         "tithiCode": 9,
         "tithiStrEn": "Navami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "भाद्र",
         "weekday": 0,
@@ -7653,10 +7653,10 @@
         "tithiCode": 10,
         "tithiStrEn": "Dashami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "भाद्र",
         "weekday": 1,
@@ -7735,10 +7735,10 @@
         "tithiCode": 11,
         "tithiStrEn": "Ekadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "असोज",
         "weekday": 2,
@@ -7781,10 +7781,10 @@
         "tithiCode": 12,
         "tithiStrEn": "Dwadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "असोज",
         "weekday": 3,
@@ -7839,10 +7839,10 @@
         "tithiCode": 13,
         "tithiStrEn": "Trayodashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "असोज",
         "weekday": 4,
@@ -7885,10 +7885,10 @@
         "tithiCode": 14,
         "tithiStrEn": "Chaturdashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "असोज",
         "weekday": 5,
@@ -7949,10 +7949,10 @@
         "tithiCode": 30,
         "tithiStrEn": "Aunsi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "असोज",
         "weekday": 6,
@@ -8001,10 +8001,10 @@
         "tithiCode": 1,
         "tithiStrEn": "Pratipada",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "असोज",
         "weekday": 0,
@@ -8047,10 +8047,10 @@
         "tithiCode": 2,
         "tithiStrEn": "Dwitīyā",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "असोज",
         "weekday": 1,
@@ -8093,10 +8093,10 @@
         "tithiCode": 3,
         "tithiStrEn": "Tritiya",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "असोज",
         "weekday": 2,
@@ -8139,10 +8139,10 @@
         "tithiCode": 3,
         "tithiStrEn": "Tritiya",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "असोज",
         "weekday": 3,
@@ -8185,10 +8185,10 @@
         "tithiCode": 4,
         "tithiStrEn": "Chaturthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "असोज",
         "weekday": 4,
@@ -8231,10 +8231,10 @@
         "tithiCode": 5,
         "tithiStrEn": "Panchami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "असोज",
         "weekday": 5,
@@ -8283,10 +8283,10 @@
         "tithiCode": 6,
         "tithiStrEn": "Shashthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "असोज",
         "weekday": 6,
@@ -8335,10 +8335,10 @@
         "tithiCode": 7,
         "tithiStrEn": "Saptami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "असोज",
         "weekday": 0,
@@ -8399,10 +8399,10 @@
         "tithiCode": 8,
         "tithiStrEn": "Ashtami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "असोज",
         "weekday": 1,
@@ -8451,10 +8451,10 @@
         "tithiCode": 9,
         "tithiStrEn": "Navami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "असोज",
         "weekday": 2,
@@ -8509,10 +8509,10 @@
         "tithiCode": 10,
         "tithiStrEn": "Dashami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "असोज",
         "weekday": 3,
@@ -8561,10 +8561,10 @@
         "tithiCode": 11,
         "tithiStrEn": "Ekadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "असोज",
         "weekday": 4,
@@ -8619,10 +8619,10 @@
         "tithiCode": 12,
         "tithiStrEn": "Dwadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "असोज",
         "weekday": 5,
@@ -8665,10 +8665,10 @@
         "tithiCode": 13,
         "tithiStrEn": "Trayodashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "असोज",
         "weekday": 6,
@@ -8717,10 +8717,10 @@
         "tithiCode": 14,
         "tithiStrEn": "Chaturdashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "असोज",
         "weekday": 0,
@@ -8763,10 +8763,10 @@
         "tithiCode": 15,
         "tithiStrEn": "Purnima",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "असोज",
         "weekday": 1,
@@ -8809,10 +8809,10 @@
         "tithiCode": 1,
         "tithiStrEn": "Pratipada",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "असोज",
         "weekday": 2,
@@ -8861,10 +8861,10 @@
         "tithiCode": 3,
         "tithiStrEn": "Tritiya",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "असोज",
         "weekday": 3,
@@ -8907,10 +8907,10 @@
         "tithiCode": 4,
         "tithiStrEn": "Chaturthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "असोज",
         "weekday": 4,
@@ -8953,10 +8953,10 @@
         "tithiCode": 5,
         "tithiStrEn": "Panchami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "असोज",
         "weekday": 5,
@@ -8999,10 +8999,10 @@
         "tithiCode": 6,
         "tithiStrEn": "Shashthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "असोज",
         "weekday": 6,
@@ -9045,10 +9045,10 @@
         "tithiCode": 7,
         "tithiStrEn": "Saptami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "असोज",
         "weekday": 0,
@@ -9103,10 +9103,10 @@
         "tithiCode": 8,
         "tithiStrEn": "Ashtami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "असोज",
         "weekday": 1,
@@ -9155,10 +9155,10 @@
         "tithiCode": 9,
         "tithiStrEn": "Navami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "असोज",
         "weekday": 2,
@@ -9201,10 +9201,10 @@
         "tithiCode": 10,
         "tithiStrEn": "Dashami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "असोज",
         "weekday": 3,
@@ -9253,10 +9253,10 @@
         "tithiCode": 11,
         "tithiStrEn": "Ekadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "असोज",
         "weekday": 4,
@@ -9311,10 +9311,10 @@
         "tithiCode": 12,
         "tithiStrEn": "Dwadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "कार्तिक",
         "weekday": 5,
@@ -9363,10 +9363,10 @@
         "tithiCode": 13,
         "tithiStrEn": "Trayodashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "कार्तिक",
         "weekday": 6,
@@ -9433,10 +9433,10 @@
         "tithiCode": 14,
         "tithiStrEn": "Chaturdashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "कार्तिक",
         "weekday": 0,
@@ -9479,10 +9479,10 @@
         "tithiCode": 30,
         "tithiStrEn": "Aunsi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "कार्तिक",
         "weekday": 1,
@@ -9549,10 +9549,10 @@
         "tithiCode": 1,
         "tithiStrEn": "Pratipada",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "कार्तिक",
         "weekday": 2,
@@ -9601,10 +9601,10 @@
         "tithiCode": 2,
         "tithiStrEn": "Dwitīyā",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "कार्तिक",
         "weekday": 3,
@@ -9659,10 +9659,10 @@
         "tithiCode": 3,
         "tithiStrEn": "Tritiya",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "कार्तिक",
         "weekday": 4,
@@ -9705,10 +9705,10 @@
         "tithiCode": 4,
         "tithiStrEn": "Chaturthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "कार्तिक",
         "weekday": 5,
@@ -9751,10 +9751,10 @@
         "tithiCode": 5,
         "tithiStrEn": "Panchami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "कार्तिक",
         "weekday": 6,
@@ -9797,10 +9797,10 @@
         "tithiCode": 5,
         "tithiStrEn": "Panchami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "कार्तिक",
         "weekday": 0,
@@ -9843,10 +9843,10 @@
         "tithiCode": 6,
         "tithiStrEn": "Shashthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "कार्तिक",
         "weekday": 1,
@@ -9901,10 +9901,10 @@
         "tithiCode": 7,
         "tithiStrEn": "Saptami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "कार्तिक",
         "weekday": 2,
@@ -9947,10 +9947,10 @@
         "tithiCode": 8,
         "tithiStrEn": "Ashtami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "कार्तिक",
         "weekday": 3,
@@ -9993,10 +9993,10 @@
         "tithiCode": 9,
         "tithiStrEn": "Navami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "कार्तिक",
         "weekday": 4,
@@ -10039,10 +10039,10 @@
         "tithiCode": 10,
         "tithiStrEn": "Dashami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "कार्तिक",
         "weekday": 5,
@@ -10085,10 +10085,10 @@
         "tithiCode": 11,
         "tithiStrEn": "Ekadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "कार्तिक",
         "weekday": 6,
@@ -10131,10 +10131,10 @@
         "tithiCode": 13,
         "tithiStrEn": "Trayodashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "कार्तिक",
         "weekday": 0,
@@ -10177,10 +10177,10 @@
         "tithiCode": 14,
         "tithiStrEn": "Chaturdashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "कार्तिक",
         "weekday": 1,
@@ -10241,10 +10241,10 @@
         "tithiCode": 15,
         "tithiStrEn": "Purnima",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "कार्तिक",
         "weekday": 2,
@@ -10287,10 +10287,10 @@
         "tithiCode": 1,
         "tithiStrEn": "Pratipada",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "कार्तिक",
         "weekday": 3,
@@ -10333,10 +10333,10 @@
         "tithiCode": 2,
         "tithiStrEn": "Dwitīyā",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "कार्तिक",
         "weekday": 4,
@@ -10379,10 +10379,10 @@
         "tithiCode": 3,
         "tithiStrEn": "Tritiya",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "कार्तिक",
         "weekday": 5,
@@ -10425,10 +10425,10 @@
         "tithiCode": 5,
         "tithiStrEn": "Panchami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "कार्तिक",
         "weekday": 6,
@@ -10471,10 +10471,10 @@
         "tithiCode": 6,
         "tithiStrEn": "Shashthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "कार्तिक",
         "weekday": 0,
@@ -10517,10 +10517,10 @@
         "tithiCode": 7,
         "tithiStrEn": "Saptami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "कार्तिक",
         "weekday": 1,
@@ -10575,10 +10575,10 @@
         "tithiCode": 8,
         "tithiStrEn": "Ashtami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "कार्तिक",
         "weekday": 2,
@@ -10621,10 +10621,10 @@
         "tithiCode": 9,
         "tithiStrEn": "Navami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "कार्तिक",
         "weekday": 3,
@@ -10673,10 +10673,10 @@
         "tithiCode": 10,
         "tithiStrEn": "Dashami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "कार्तिक",
         "weekday": 4,
@@ -10719,10 +10719,10 @@
         "tithiCode": 11,
         "tithiStrEn": "Ekadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "कार्तिक",
         "weekday": 5,
@@ -10765,10 +10765,10 @@
         "tithiCode": 12,
         "tithiStrEn": "Dwadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "कार्तिक",
         "weekday": 6,
@@ -10823,10 +10823,10 @@
         "tithiCode": 13,
         "tithiStrEn": "Trayodashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "मंसिर",
         "weekday": 0,
@@ -10869,10 +10869,10 @@
         "tithiCode": 13,
         "tithiStrEn": "Trayodashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "मंसिर",
         "weekday": 1,
@@ -10921,10 +10921,10 @@
         "tithiCode": 14,
         "tithiStrEn": "Chaturdashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "मंसिर",
         "weekday": 2,
@@ -10973,10 +10973,10 @@
         "tithiCode": 30,
         "tithiStrEn": "Aunsi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "मंसिर",
         "weekday": 3,
@@ -11019,10 +11019,10 @@
         "tithiCode": 1,
         "tithiStrEn": "Pratipada",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "मंसिर",
         "weekday": 4,
@@ -11065,10 +11065,10 @@
         "tithiCode": 2,
         "tithiStrEn": "Dwitīyā",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "मंसिर",
         "weekday": 5,
@@ -11111,10 +11111,10 @@
         "tithiCode": 3,
         "tithiStrEn": "Tritiya",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "मंसिर",
         "weekday": 6,
@@ -11157,10 +11157,10 @@
         "tithiCode": 4,
         "tithiStrEn": "Chaturthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "मंसिर",
         "weekday": 0,
@@ -11215,10 +11215,10 @@
         "tithiCode": 5,
         "tithiStrEn": "Panchami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "मंसिर",
         "weekday": 1,
@@ -11261,10 +11261,10 @@
         "tithiCode": 6,
         "tithiStrEn": "Shashthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "मंसिर",
         "weekday": 2,
@@ -11307,10 +11307,10 @@
         "tithiCode": 7,
         "tithiStrEn": "Saptami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "मंसिर",
         "weekday": 3,
@@ -11353,10 +11353,10 @@
         "tithiCode": 8,
         "tithiStrEn": "Ashtami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "मंसिर",
         "weekday": 4,
@@ -11399,10 +11399,10 @@
         "tithiCode": 9,
         "tithiStrEn": "Navami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "मंसिर",
         "weekday": 5,
@@ -11445,10 +11445,10 @@
         "tithiCode": 10,
         "tithiStrEn": "Dashami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "मंसिर",
         "weekday": 6,
@@ -11503,10 +11503,10 @@
         "tithiCode": 11,
         "tithiStrEn": "Ekadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "मंसिर",
         "weekday": 0,
@@ -11555,10 +11555,10 @@
         "tithiCode": 12,
         "tithiStrEn": "Dwadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "मंसिर",
         "weekday": 1,
@@ -11601,10 +11601,10 @@
         "tithiCode": 13,
         "tithiStrEn": "Trayodashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "मंसिर",
         "weekday": 2,
@@ -11665,10 +11665,10 @@
         "tithiCode": 14,
         "tithiStrEn": "Chaturdashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "मंसिर",
         "weekday": 3,
@@ -11717,10 +11717,10 @@
         "tithiCode": 1,
         "tithiStrEn": "Pratipada",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "मंसिर",
         "weekday": 4,
@@ -11763,10 +11763,10 @@
         "tithiCode": 2,
         "tithiStrEn": "Dwitīyā",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "मंसिर",
         "weekday": 5,
@@ -11809,10 +11809,10 @@
         "tithiCode": 3,
         "tithiStrEn": "Tritiya",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "मंसिर",
         "weekday": 6,
@@ -11855,10 +11855,10 @@
         "tithiCode": 4,
         "tithiStrEn": "Chaturthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "मंसिर",
         "weekday": 0,
@@ -11901,10 +11901,10 @@
         "tithiCode": 5,
         "tithiStrEn": "Panchami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "मंसिर",
         "weekday": 1,
@@ -11947,10 +11947,10 @@
         "tithiCode": 6,
         "tithiStrEn": "Shashthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "मंसिर",
         "weekday": 2,
@@ -11993,10 +11993,10 @@
         "tithiCode": 7,
         "tithiStrEn": "Saptami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "मंसिर",
         "weekday": 3,
@@ -12045,10 +12045,10 @@
         "tithiCode": 8,
         "tithiStrEn": "Ashtami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "मंसिर",
         "weekday": 4,
@@ -12091,10 +12091,10 @@
         "tithiCode": 9,
         "tithiStrEn": "Navami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "मंसिर",
         "weekday": 5,
@@ -12137,10 +12137,10 @@
         "tithiCode": 10,
         "tithiStrEn": "Dashami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "मंसिर",
         "weekday": 6,
@@ -12183,10 +12183,10 @@
         "tithiCode": 11,
         "tithiStrEn": "Ekadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "मंसिर",
         "weekday": 0,
@@ -12229,10 +12229,10 @@
         "tithiCode": 12,
         "tithiStrEn": "Dwadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "पौष",
         "weekday": 1,
@@ -12275,10 +12275,10 @@
         "tithiCode": 13,
         "tithiStrEn": "Trayodashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "पौष",
         "weekday": 2,
@@ -12321,10 +12321,10 @@
         "tithiCode": 14,
         "tithiStrEn": "Chaturdashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "पौष",
         "weekday": 3,
@@ -12367,10 +12367,10 @@
         "tithiCode": 30,
         "tithiStrEn": "Aunsi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "पौष",
         "weekday": 4,
@@ -12413,10 +12413,10 @@
         "tithiCode": 30,
         "tithiStrEn": "Aunsi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "पौष",
         "weekday": 5,
@@ -12459,10 +12459,10 @@
         "tithiCode": 1,
         "tithiStrEn": "Pratipada",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "पौष",
         "weekday": 6,
@@ -12505,10 +12505,10 @@
         "tithiCode": 2,
         "tithiStrEn": "Dwitīyā",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "पौष",
         "weekday": 0,
@@ -12551,10 +12551,10 @@
         "tithiCode": 3,
         "tithiStrEn": "Tritiya",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "पौष",
         "weekday": 1,
@@ -12597,10 +12597,10 @@
         "tithiCode": 4,
         "tithiStrEn": "Chaturthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "पौष",
         "weekday": 2,
@@ -12643,10 +12643,10 @@
         "tithiCode": 5,
         "tithiStrEn": "Panchami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "पौष",
         "weekday": 3,
@@ -12689,10 +12689,10 @@
         "tithiCode": 6,
         "tithiStrEn": "Shashthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "पौष",
         "weekday": 4,
@@ -12735,10 +12735,10 @@
         "tithiCode": 7,
         "tithiStrEn": "Saptami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "पौष",
         "weekday": 5,
@@ -12781,10 +12781,10 @@
         "tithiCode": 8,
         "tithiStrEn": "Ashtami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "पौष",
         "weekday": 6,
@@ -12827,10 +12827,10 @@
         "tithiCode": 9,
         "tithiStrEn": "Navami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "पौष",
         "weekday": 0,
@@ -12885,10 +12885,10 @@
         "tithiCode": 10,
         "tithiStrEn": "Dashami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "पौष",
         "weekday": 1,
@@ -12931,10 +12931,10 @@
         "tithiCode": 12,
         "tithiStrEn": "Dwadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "पौष",
         "weekday": 2,
@@ -12995,10 +12995,10 @@
         "tithiCode": 13,
         "tithiStrEn": "Trayodashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "पौष",
         "weekday": 3,
@@ -13041,10 +13041,10 @@
         "tithiCode": 14,
         "tithiStrEn": "Chaturdashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "पौष",
         "weekday": 4,
@@ -13099,10 +13099,10 @@
         "tithiCode": 15,
         "tithiStrEn": "Purnima",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "पौष",
         "weekday": 5,
@@ -13145,10 +13145,10 @@
         "tithiCode": 1,
         "tithiStrEn": "Pratipada",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "पौष",
         "weekday": 6,
@@ -13191,10 +13191,10 @@
         "tithiCode": 2,
         "tithiStrEn": "Dwitīyā",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "पौष",
         "weekday": 0,
@@ -13237,10 +13237,10 @@
         "tithiCode": 3,
         "tithiStrEn": "Tritiya",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "पौष",
         "weekday": 1,
@@ -13283,10 +13283,10 @@
         "tithiCode": 4,
         "tithiStrEn": "Chaturthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "पौष",
         "weekday": 2,
@@ -13329,10 +13329,10 @@
         "tithiCode": 6,
         "tithiStrEn": "Shashthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "पौष",
         "weekday": 3,
@@ -13375,10 +13375,10 @@
         "tithiCode": 6,
         "tithiStrEn": "Shashthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "पौष",
         "weekday": 4,
@@ -13421,10 +13421,10 @@
         "tithiCode": 7,
         "tithiStrEn": "Saptami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "पौष",
         "weekday": 5,
@@ -13479,10 +13479,10 @@
         "tithiCode": 8,
         "tithiStrEn": "Ashtami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "पौष",
         "weekday": 6,
@@ -13525,10 +13525,10 @@
         "tithiCode": 9,
         "tithiStrEn": "Navami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "पौष",
         "weekday": 0,
@@ -13571,10 +13571,10 @@
         "tithiCode": 10,
         "tithiStrEn": "Dashami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "पौष",
         "weekday": 1,
@@ -13617,10 +13617,10 @@
         "tithiCode": 11,
         "tithiStrEn": "Ekadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "पौष",
         "weekday": 2,
@@ -13675,10 +13675,10 @@
         "tithiCode": 12,
         "tithiStrEn": "Dwadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "माघ",
         "weekday": 3,
@@ -13727,10 +13727,10 @@
         "tithiCode": 13,
         "tithiStrEn": "Trayodashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "माघ",
         "weekday": 4,
@@ -13773,10 +13773,10 @@
         "tithiCode": 14,
         "tithiStrEn": "Chaturdashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "माघ",
         "weekday": 5,
@@ -13819,10 +13819,10 @@
         "tithiCode": 30,
         "tithiStrEn": "Aunsi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "माघ",
         "weekday": 6,
@@ -13871,10 +13871,10 @@
         "tithiCode": 1,
         "tithiStrEn": "Pratipada",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "माघ",
         "weekday": 0,
@@ -13917,10 +13917,10 @@
         "tithiCode": 2,
         "tithiStrEn": "Dwitīyā",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "माघ",
         "weekday": 1,
@@ -13963,10 +13963,10 @@
         "tithiCode": 3,
         "tithiStrEn": "Tritiya",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "माघ",
         "weekday": 2,
@@ -14009,10 +14009,10 @@
         "tithiCode": 4,
         "tithiStrEn": "Chaturthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "माघ",
         "weekday": 3,
@@ -14061,10 +14061,10 @@
         "tithiCode": 5,
         "tithiStrEn": "Panchami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "माघ",
         "weekday": 4,
@@ -14119,10 +14119,10 @@
         "tithiCode": 6,
         "tithiStrEn": "Shashthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "माघ",
         "weekday": 5,
@@ -14171,10 +14171,10 @@
         "tithiCode": 7,
         "tithiStrEn": "Saptami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "माघ",
         "weekday": 6,
@@ -14217,10 +14217,10 @@
         "tithiCode": 8,
         "tithiStrEn": "Ashtami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "माघ",
         "weekday": 0,
@@ -14263,10 +14263,10 @@
         "tithiCode": 9,
         "tithiStrEn": "Navami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "माघ",
         "weekday": 1,
@@ -14309,10 +14309,10 @@
         "tithiCode": 10,
         "tithiStrEn": "Dashami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "माघ",
         "weekday": 2,
@@ -14355,10 +14355,10 @@
         "tithiCode": 11,
         "tithiStrEn": "Ekadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "माघ",
         "weekday": 3,
@@ -14407,10 +14407,10 @@
         "tithiCode": 12,
         "tithiStrEn": "Dwadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "माघ",
         "weekday": 4,
@@ -14453,10 +14453,10 @@
         "tithiCode": 13,
         "tithiStrEn": "Trayodashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "माघ",
         "weekday": 5,
@@ -14505,10 +14505,10 @@
         "tithiCode": 15,
         "tithiStrEn": "Purnima",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "माघ",
         "weekday": 6,
@@ -14551,10 +14551,10 @@
         "tithiCode": 1,
         "tithiStrEn": "Pratipada",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "माघ",
         "weekday": 0,
@@ -14597,10 +14597,10 @@
         "tithiCode": 2,
         "tithiStrEn": "Dwitīyā",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "माघ",
         "weekday": 1,
@@ -14643,10 +14643,10 @@
         "tithiCode": 3,
         "tithiStrEn": "Tritiya",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "माघ",
         "weekday": 2,
@@ -14689,10 +14689,10 @@
         "tithiCode": 4,
         "tithiStrEn": "Chaturthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "माघ",
         "weekday": 3,
@@ -14735,10 +14735,10 @@
         "tithiCode": 5,
         "tithiStrEn": "Panchami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "माघ",
         "weekday": 4,
@@ -14781,10 +14781,10 @@
         "tithiCode": 6,
         "tithiStrEn": "Shashthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "माघ",
         "weekday": 5,
@@ -14827,10 +14827,10 @@
         "tithiCode": 7,
         "tithiStrEn": "Saptami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "माघ",
         "weekday": 6,
@@ -14873,10 +14873,10 @@
         "tithiCode": 8,
         "tithiStrEn": "Ashtami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "माघ",
         "weekday": 0,
@@ -14919,10 +14919,10 @@
         "tithiCode": 8,
         "tithiStrEn": "Ashtami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "माघ",
         "weekday": 1,
@@ -14971,10 +14971,10 @@
         "tithiCode": 9,
         "tithiStrEn": "Navami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": true
+          "bratabanda": false,
+          "grihaprabesh": true,
+          "rudri": false
         },
         "bsMonthNp": "माघ",
         "weekday": 2,
@@ -15017,10 +15017,10 @@
         "tithiCode": 10,
         "tithiStrEn": "Dashami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "माघ",
         "weekday": 3,
@@ -15075,10 +15075,10 @@
         "tithiCode": 11,
         "tithiStrEn": "Ekadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "फागुन",
         "weekday": 4,
@@ -15127,10 +15127,10 @@
         "tithiCode": 12,
         "tithiStrEn": "Dwadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "फागुन",
         "weekday": 5,
@@ -15185,10 +15185,10 @@
         "tithiCode": 13,
         "tithiStrEn": "Trayodashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "फागुन",
         "weekday": 6,
@@ -15231,10 +15231,10 @@
         "tithiCode": 14,
         "tithiStrEn": "Chaturdashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "फागुन",
         "weekday": 0,
@@ -15277,10 +15277,10 @@
         "tithiCode": 30,
         "tithiStrEn": "Aunsi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "फागुन",
         "weekday": 1,
@@ -15323,10 +15323,10 @@
         "tithiCode": 1,
         "tithiStrEn": "Pratipada",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "फागुन",
         "weekday": 2,
@@ -15375,10 +15375,10 @@
         "tithiCode": 2,
         "tithiStrEn": "Dwitīyā",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": true,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "फागुन",
         "weekday": 3,
@@ -15421,10 +15421,10 @@
         "tithiCode": 3,
         "tithiStrEn": "Tritiya",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "फागुन",
         "weekday": 4,
@@ -15467,10 +15467,10 @@
         "tithiCode": 4,
         "tithiStrEn": "Chaturthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "फागुन",
         "weekday": 5,
@@ -15513,10 +15513,10 @@
         "tithiCode": 5,
         "tithiStrEn": "Panchami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "फागुन",
         "weekday": 6,
@@ -15559,10 +15559,10 @@
         "tithiCode": 6,
         "tithiStrEn": "Shashthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "फागुन",
         "weekday": 0,
@@ -15611,10 +15611,10 @@
         "tithiCode": 7,
         "tithiStrEn": "Saptami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "फागुन",
         "weekday": 1,
@@ -15657,10 +15657,10 @@
         "tithiCode": 9,
         "tithiStrEn": "Navami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "फागुन",
         "weekday": 2,
@@ -15703,10 +15703,10 @@
         "tithiCode": 10,
         "tithiStrEn": "Dashami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": false,
-          "grihaprabesh": true
+          "bratabanda": true,
+          "grihaprabesh": true,
+          "rudri": false
         },
         "bsMonthNp": "फागुन",
         "weekday": 3,
@@ -15755,10 +15755,10 @@
         "tithiCode": 11,
         "tithiStrEn": "Ekadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": true,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "फागुन",
         "weekday": 4,
@@ -15801,10 +15801,10 @@
         "tithiCode": 12,
         "tithiStrEn": "Dwadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "फागुन",
         "weekday": 5,
@@ -15853,10 +15853,10 @@
         "tithiCode": 13,
         "tithiStrEn": "Trayodashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "फागुन",
         "weekday": 6,
@@ -15905,10 +15905,10 @@
         "tithiCode": 14,
         "tithiStrEn": "Chaturdashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "फागुन",
         "weekday": 0,
@@ -15963,10 +15963,10 @@
         "tithiCode": 15,
         "tithiStrEn": "Purnima",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "फागुन",
         "weekday": 1,
@@ -16009,10 +16009,10 @@
         "tithiCode": 1,
         "tithiStrEn": "Pratipada",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "फागुन",
         "weekday": 2,
@@ -16055,10 +16055,10 @@
         "tithiCode": 2,
         "tithiStrEn": "Dwitīyā",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "फागुन",
         "weekday": 3,
@@ -16113,10 +16113,10 @@
         "tithiCode": 11,
         "tithiStrEn": "Ekadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "चैत्र",
         "weekday": 1,
@@ -16159,10 +16159,10 @@
         "tithiCode": 4,
         "tithiStrEn": "Chaturthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "फागुन",
         "weekday": 5,
@@ -16205,10 +16205,10 @@
         "tithiCode": 5,
         "tithiStrEn": "Panchami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "फागुन",
         "weekday": 6,
@@ -16251,10 +16251,10 @@
         "tithiCode": 6,
         "tithiStrEn": "Shashthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "फागुन",
         "weekday": 0,
@@ -16297,10 +16297,10 @@
         "tithiCode": 7,
         "tithiStrEn": "Saptami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "फागुन",
         "weekday": 1,
@@ -16343,10 +16343,10 @@
         "tithiCode": 8,
         "tithiStrEn": "Ashtami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "फागुन",
         "weekday": 2,
@@ -16389,10 +16389,10 @@
         "tithiCode": 9,
         "tithiStrEn": "Navami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "फागुन",
         "weekday": 3,
@@ -16435,10 +16435,10 @@
         "tithiCode": 9,
         "tithiStrEn": "Navami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "फागुन",
         "weekday": 4,
@@ -16481,10 +16481,10 @@
         "tithiCode": 10,
         "tithiStrEn": "Dashami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": true,
-          "rudri": false,
-          "grihaprabesh": true
+          "bratabanda": false,
+          "grihaprabesh": true,
+          "rudri": false
         },
         "bsMonthNp": "फागुन",
         "weekday": 5,
@@ -16539,10 +16539,10 @@
         "tithiCode": 11,
         "tithiStrEn": "Ekadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "चैत्र",
         "weekday": 6,
@@ -16585,10 +16585,10 @@
         "tithiCode": 12,
         "tithiStrEn": "Dwadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "चैत्र",
         "weekday": 0,
@@ -16631,10 +16631,10 @@
         "tithiCode": 13,
         "tithiStrEn": "Trayodashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "चैत्र",
         "weekday": 1,
@@ -16677,10 +16677,10 @@
         "tithiCode": 14,
         "tithiStrEn": "Chaturdashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "चैत्र",
         "weekday": 2,
@@ -16723,10 +16723,10 @@
         "tithiCode": 30,
         "tithiStrEn": "Aunsi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "चैत्र",
         "weekday": 3,
@@ -16775,10 +16775,10 @@
         "tithiCode": 2,
         "tithiStrEn": "Dwitīyā",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": true,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "चैत्र",
         "weekday": 4,
@@ -16833,10 +16833,10 @@
         "tithiCode": 3,
         "tithiStrEn": "Tritiya",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "चैत्र",
         "weekday": 5,
@@ -16879,10 +16879,10 @@
         "tithiCode": 4,
         "tithiStrEn": "Chaturthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "चैत्र",
         "weekday": 6,
@@ -16925,10 +16925,10 @@
         "tithiCode": 5,
         "tithiStrEn": "Panchami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "चैत्र",
         "weekday": 0,
@@ -16971,10 +16971,10 @@
         "tithiCode": 6,
         "tithiStrEn": "Shashthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "चैत्र",
         "weekday": 1,
@@ -17017,10 +17017,10 @@
         "tithiCode": 7,
         "tithiStrEn": "Saptami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "चैत्र",
         "weekday": 2,
@@ -17075,10 +17075,10 @@
         "tithiCode": 8,
         "tithiStrEn": "Ashtami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "चैत्र",
         "weekday": 3,
@@ -17127,10 +17127,10 @@
         "tithiCode": 9,
         "tithiStrEn": "Navami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "चैत्र",
         "weekday": 4,
@@ -17173,10 +17173,10 @@
         "tithiCode": 10,
         "tithiStrEn": "Dashami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "चैत्र",
         "weekday": 5,
@@ -17219,10 +17219,10 @@
         "tithiCode": 11,
         "tithiStrEn": "Ekadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": true,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "चैत्र",
         "weekday": 6,
@@ -17265,10 +17265,10 @@
         "tithiCode": 12,
         "tithiStrEn": "Dwadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "चैत्र",
         "weekday": 0,
@@ -17311,10 +17311,10 @@
         "tithiCode": 13,
         "tithiStrEn": "Trayodashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "चैत्र",
         "weekday": 1,
@@ -17363,10 +17363,10 @@
         "tithiCode": 14,
         "tithiStrEn": "Chaturdashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "चैत्र",
         "weekday": 2,
@@ -17421,10 +17421,10 @@
         "tithiCode": 15,
         "tithiStrEn": "Purnima",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "चैत्र",
         "weekday": 3,
@@ -17467,10 +17467,10 @@
         "tithiCode": 1,
         "tithiStrEn": "Pratipada",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "चैत्र",
         "weekday": 4,
@@ -17513,10 +17513,10 @@
         "tithiCode": 2,
         "tithiStrEn": "Dwitīyā",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "चैत्र",
         "weekday": 5,
@@ -17559,10 +17559,10 @@
         "tithiCode": 3,
         "tithiStrEn": "Tritiya",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "चैत्र",
         "weekday": 6,
@@ -17605,10 +17605,10 @@
         "tithiCode": 4,
         "tithiStrEn": "Chaturthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "चैत्र",
         "weekday": 0,
@@ -17651,10 +17651,10 @@
         "tithiCode": 5,
         "tithiStrEn": "Panchami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "चैत्र",
         "weekday": 1,
@@ -17697,10 +17697,10 @@
         "tithiCode": 6,
         "tithiStrEn": "Shashthi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "चैत्र",
         "weekday": 2,
@@ -17743,10 +17743,10 @@
         "tithiCode": 7,
         "tithiStrEn": "Saptami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "चैत्र",
         "weekday": 3,
@@ -17789,10 +17789,10 @@
         "tithiCode": 8,
         "tithiStrEn": "Ashtami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "चैत्र",
         "weekday": 4,
@@ -17835,10 +17835,10 @@
         "tithiCode": 9,
         "tithiStrEn": "Navami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "चैत्र",
         "weekday": 5,
@@ -17881,10 +17881,10 @@
         "tithiCode": 10,
         "tithiStrEn": "Dashami",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": false,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": false
         },
         "bsMonthNp": "चैत्र",
         "weekday": 6,
@@ -17927,10 +17927,10 @@
         "tithiCode": 11,
         "tithiStrEn": "Ekadashi",
         "specialDays": {
-          "bratabanda": false,
           "bibaha": false,
-          "rudri": true,
-          "grihaprabesh": false
+          "bratabanda": false,
+          "grihaprabesh": false,
+          "rudri": true
         },
         "bsMonthNp": "चैत्र",
         "weekday": 0,
