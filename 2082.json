@@ -1443,7 +1443,7 @@
           {
             "strEn": "पूर्णिमा व्रत",
             "strNp": "पूर्णिमा व्रत",
-            "isHoliday": true,
+            "isHoliday": false,
             "priority": "Low"
           },
           {
@@ -3367,19 +3367,19 @@
           {
             "strEn": "योगिनी एकादशी व्रत (स्मार्तहरूको)",
             "strNp": "योगिनी एकादशी व्रत (स्मार्तहरूको)",
-            "isHoliday": true,
+            "isHoliday": false,
             "priority": "Low"
           },
           {
             "strEn": "विश्व योग दिवस",
             "strNp": "विश्व योग दिवस",
-            "isHoliday": true,
+            "isHoliday": false,
             "priority": "Low"
           },
           {
             "strEn": "संगीत दिवस",
             "strNp": "संगीत दिवस",
-            "isHoliday": true,
+            "isHoliday": false,
             "priority": "Low"
           }
         ],
